@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "email": "joao.silva@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Mercedes Actros",
+    "nome": "João da Silva"
+  },
+  {
+    "id": 2,
+    "email": "maria.souza@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Volkswagen Constellation",
+    "nome": "Maria Souza"
+  },
+  {
+    "id": 3,
+    "email": "pedro.santos@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Ford Cargo",
+    "nome": "Pedro Santos"
+  },
+  {
+    "id": 4,
+    "email": "ana.oliveira@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Fiat Iveco Tector",
+    "nome": "Ana Oliveira"
+  },
+  {
+    "id": 5,
+    "email": "lucas.pereira@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Chevrolet D-60",
+    "nome": "Lucas Pereira"
+  },
+  {
+    "id": 6,
+    "email": "julia.rodrigues@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Renault Master",
+    "nome": "Julia Rodrigues"
+  },
+  {
+    "id": 7,
+    "email": "rafaela.costa@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Toyota Hilux",
+    "nome": "Rafaela Costa"
+  },
+  {
+    "id": 8,
+    "email": "gustavo.almeida@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Honda HR-V",
+    "nome": "Gustavo Almeida"
+  },
+  {
+    "id": 9,
+    "email": "fernanda.lima@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Hyundai HR",
+    "nome": "Fernanda Lima"
+  },
+  {
+    "id": 10,
+    "email": "marcelo.santos@gmail.com",
+    "senha": "1234",
+    "modeloGuincho": "Mitsubishi L200 Triton",
+    "nome": "Marcelo Santos"
+  }
+]
